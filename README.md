@@ -3,7 +3,7 @@
 We have one file i.e **names.txt** which has list of different names . My goal is to predict the next character given a sequence of characters as an input.I have implemented different models from scratch using **PyTorch** library and with the help of some research papers to perform this Task.<br><br> Following are the models and techniques which I used for this task - <br><br>
 **1) Bigram Model<br><br>
 2) MLP(Multilayer Perceptron)<br><br>
-3) Backpropagation**<br><br>
+3) Batch Normalization**<br><br>
 
 
 
